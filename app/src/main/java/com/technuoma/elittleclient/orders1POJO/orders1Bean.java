@@ -1,11 +1,11 @@
-package com.technuoma.emartclient.ordersPOJO;
+package com.technuoma.elittleclient.orders1POJO;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-public class ordersBean {
+public class orders1Bean {
     @SerializedName("status")
     @Expose
     private String status;

@@ -1,10 +1,10 @@
-package com.technuoma.emartclient;
+package com.technuoma.elittleclient;
 
 
-import com.technuoma.emartclient.loginPOJO.loginBean;
-import com.technuoma.emartclient.orderDetailsPOJO.orderDetailsBean;
-import com.technuoma.emartclient.orders1POJO.orders1Bean;
-import com.technuoma.emartclient.ordersPOJO.ordersBean;
+import com.technuoma.elittleclient.loginPOJO.loginBean;
+import com.technuoma.elittleclient.orderDetailsPOJO.orderDetailsBean;
+import com.technuoma.elittleclient.orders1POJO.orders1Bean;
+import com.technuoma.elittleclient.ordersPOJO.ordersBean;
 
 import retrofit2.Call;
 import retrofit2.http.Multipart;

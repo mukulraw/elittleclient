@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.elittleclient;
 
 import android.app.ActivityManager;
 import android.app.NotificationChannel;

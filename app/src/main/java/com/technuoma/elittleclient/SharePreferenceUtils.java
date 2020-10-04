@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.elittleclient;
 
 import android.content.Context;
 import android.content.SharedPreferences;

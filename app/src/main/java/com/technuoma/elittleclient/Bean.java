@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.elittleclient;
 
 import android.app.Application;
 import android.content.Context;

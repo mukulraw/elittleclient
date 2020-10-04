@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.elittleclient;
 
 import android.app.Dialog;
 import android.content.BroadcastReceiver;
@@ -24,8 +24,8 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.technuoma.emartclient.ordersPOJO.Datum;
-import com.technuoma.emartclient.ordersPOJO.ordersBean;
+import com.technuoma.elittleclient.ordersPOJO.Datum;
+import com.technuoma.elittleclient.ordersPOJO.ordersBean;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
